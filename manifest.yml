@@ -1,0 +1,6 @@
+applications:
+- services:
+  - lid-service
+  name: lid-ruby
+  path: .
+  memory: 256M
