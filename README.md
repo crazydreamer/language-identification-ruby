@@ -41,16 +41,16 @@ See the full [Getting Started][getting_started] documentation for more details, 
 
 ## License
 
-  This sample code is licensed under Apache 2.0. Full license text is available in [LICENSE](https://github.rtp.raleigh.ibm.com/gattana-us/lid-ruby/blob/master/LICENSE).
+  This sample code is licensed under Apache 2.0. Full license text is available in [LICENSE](LICENSE).
 
 ## Contributing
 
-  See [CONTRIBUTING](https://github.rtp.raleigh.ibm.com/gattana-us/lid-ruby/blob/master/CONTRIBUTING.md).
+  See [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Open Source @ IBM
   Find more open source projects on the [IBM Github Page](http://ibm.github.io/)
 
-[language_identification](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/lidapi/)
-[cloud_foundry](https://github.com/cloudfoundry/cli)
-[getting_started](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/getting_started/)
-[sign_up](https://apps.admin.ibmcloud.com/manage/trial/bluemix.html?cm_mmc=WatsonDeveloperCloud-_-LandingSiteGetStarted-_-x-_-CreateAnAccountOnBluemixCLI)
+[language_identification]:http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/lidapi/
+[cloud_foundry]: https://github.com/cloudfoundry/cli
+[getting_started]: http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/getting_started/
+[sign_up]: https://apps.admin.ibmcloud.com/manage/trial/bluemix.html?cm_mmc=WatsonDeveloperCloud-_-LandingSiteGetStarted-_-x-_-CreateAnAccountOnBluemixCLI
