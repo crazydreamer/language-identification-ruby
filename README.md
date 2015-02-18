@@ -2,6 +2,10 @@
 
   The IBM Watson [Language Identification][language_identification] service detects the language in which text is written. This helps inform next steps such as translation, voice to text, or direct analysis. The service can be used in tandem with the Machine Translation service. Today, the service can identify many languages: Arabic; Chinese (Simplified); Chinese (Traditional); Cyrillic; Danish; Dutch; English; Farsi; Finnish; French; German; Greek; Hebrew; Hindi; Icelandic; Italian; Japanese; Korean; Norwegian (Bokmal); Norwegian (Nynorsk); Portuguese; Spanish; Swedish; Turkish; Urdu.
 
+Give it a try! Click the button below to fork into IBM DevOps Services and deploy your own copy of this application on Bluemix.
+
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/watson-developer-cloud/lid-ruby.git)
+
 ## Getting Started
 
 1. Create a Bluemix Account
