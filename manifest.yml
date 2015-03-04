@@ -1,6 +1,6 @@
 ---
 declared-services:
-- lid-service:
+  lid-service:
     label: language_identification
     plan: language_identification_free_plan
 applications:
